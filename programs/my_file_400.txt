@@ -1,0 +1,400 @@
+hello venkatesh
+hello babu
+babu venky
+hello venkat
+when you venky
+venky is
+babu venky
+how venky
+chrisfs: Naja, rückblickend würde ich vielleicht eher awk
+statt der sed-Konstruktion verwenden. Trotzdem kann man ziemlich
+direkt sehen, was passiert: wc zählt die Zeilen, sed zieht die
+reine Zahl aus der Ausgabe, die wird durch drei geteilt
+und um 1 erhöht; split erzeugt dann Teile
+dieser Länge aus filename und benennt sie filename.chunk.
+plus fortlaufende Nummer. Es wäre natürlich nett,
+wenn wc eine Option hätte, direkt nur die Zahl
+auszugeben, aber auch so kann man damit gut
+hello venkatesh
+hello babu
+babu venky
+hello venkat
+when you venky
+venky is
+babu venky
+how venky
+chrisfs: Naja, rückblickend würde ich vielleicht eher awk
+statt der sed-Konstruktion verwenden. Trotzdem kann man ziemlich
+direkt sehen, was passiert: wc zählt die Zeilen, sed zieht die
+reine Zahl aus der Ausgabe, die wird durch drei geteilt
+und um 1 erhöht; split erzeugt dann Teile
+dieser Länge aus filename und benennt sie filename.chunk.
+plus fortlaufende Nummer. Es wäre natürlich nett,
+wenn wc eine Option hätte, direkt nur die Zahl
+auszugeben, aber auch so kann man damit guthello venkatesh
+hello babu
+babu venky
+hello venkat
+when you venky
+venky is
+babu venky
+how venky
+chrisfs: Naja, rückblickend würde ich vielleicht eher awk
+statt der sed-Konstruktion verwenden. Trotzdem kann man ziemlich
+direkt sehen, was passiert: wc zählt die Zeilen, sed zieht die
+reine Zahl aus der Ausgabe, die wird durch drei geteilt
+und um 1 erhöht; split erzeugt dann Teile
+dieser Länge aus filename und benennt sie filename.chunk.
+plus fortlaufende Nummer. Es wäre natürlich nett,
+wenn wc eine Option hätte, direkt nur die Zahl
+auszugeben, aber auch so kann man damit gut
+hello venkatesh
+hello babu
+babu venky
+hello venkat
+when you venky
+venky is
+babu venky
+how venky
+chrisfs: Naja, rückblickend würde ich vielleicht eher awk
+statt der sed-Konstruktion verwenden. Trotzdem kann man ziemlich
+direkt sehen, was passiert: wc zählt die Zeilen, sed zieht die
+reine Zahl aus der Ausgabe, die wird durch drei geteilt
+und um 1 erhöht; split erzeugt dann Teile
+dieser Länge aus filename und benennt sie filename.chunk.
+plus fortlaufende Nummer. Es wäre natürlich nett,
+wenn wc eine Option hätte, direkt nur die Zahl
+auszugeben, aber auch so kann man damit gut
+hello venkatesh
+hello babu
+babu venky
+hello venkat
+when you
+venky is
+babu venky
+how venky
+chrisfs: Naja, rückblickend würde ich vielleicht eher awk
+statt der sed-Konstruktion verwenden. Trotzdem kann man ziemlich
+direkt sehen, was passiert: wc zählt die Zeilen, sed zieht die
+reine Zahl aus der Ausgabe, die wird durch drei geteilt
+und um 1 erhöht; split erzeugt dann Teile
+dieser Länge aus filename und benennt sie filename.chunk.
+plus fortlaufende Nummer. Es wäre natürlich nett,
+wenn wc eine Option hätte, direkt nur die Zahl
+auszugeben, aber auch so kann man damit guthello venkatesh
+hello babu
+babu venky
+hello venkat
+when you venky
+venky is
+babu venky
+how venky
+chrisfs: Naja, rückblickend würde ich vielleicht eher awk
+statt der sed-Konstruktion verwenden. Trotzdem kann man ziemlich
+direkt sehen, was passiert: wc zählt die Zeilen, sed zieht die
+reine Zahl aus der Ausgabe, die wird durch drei geteilt
+und um 1 erhöht; split erzeugt dann Teile
+dieser Länge aus filename und benennt sie filename.chunk.
+plus fortlaufende Nummer. Es wäre natürlich nett,
+wenn wc eine Option hätte, direkt nur die Zahl
+auszugeben, aber auch so kann man damit gut
+hello venkatesh
+hello babu
+babu venky
+hello venkat
+when you venky
+venky is
+babu venky
+how venky
+chrisfs: Naja, rückblickend würde ich vielleicht eher awk
+statt der sed-Konstruktion verwenden. Trotzdem kann man ziemlich
+direkt sehen, was passiert: wc zählt die Zeilen, sed zieht die
+reine Zahl aus der Ausgabe, die wird durch drei geteilt
+und um 1 erhöht; split erzeugt dann Teile
+dieser Länge aus filename und benennt sie filename.chunk.
+plus fortlaufende Nummer. Es wäre natürlich nett,
+wenn wc eine Option hätte, direkt nur die Zahl
+auszugeben, aber auch so kann man damit gut
+hello venkatesh
+hello babu
+babu venky
+hello venkat
+when you venky
+venky is
+babu venky
+how venky
+chrisfs: Naja, rückblickend würde ich vielleicht eher awk
+statt der sed-Konstruktion verwenden. Trotzdem kann man ziemlich
+direkt sehen, was passiert: wc zählt die Zeilen, sed zieht die
+reine Zahl aus der Ausgabe, die wird durch drei geteilt
+und um 1 erhöht; split erzeugt dann Teile
+dieser Länge aus filename und benennt sie filename.chunk.
+plus fortlaufende Nummer. Es wäre natürlich nett,
+wenn wc eine Option hätte, direkt nur die Zahl
+auszugeben, aber auch so kann man damit guthello venkatesh
+hello babu
+babu venky
+hello venkat
+when you venky
+venky is
+babu venky
+how venky
+chrisfs: Naja, rückblickend würde ich vielleicht eher awk
+statt der sed-Konstruktion verwenden. Trotzdem kann man ziemlich
+direkt sehen, was passiert: wc zählt die Zeilen, sed zieht die
+reine Zahl aus der Ausgabe, die wird durch drei geteilt
+und um 1 erhöht; split erzeugt dann Teile
+dieser Länge aus filename und benennt sie filename.chunk.
+plus fortlaufende Nummer. Es wäre natürlich nett,
+wenn wc eine Option hätte, direkt nur die Zahl
+auszugeben, aber auch so kann man damit gut
+hello venkatesh
+hello babu
+babu venky
+hello venkat
+when you venky
+venky is
+babu venky
+how venky
+chrisfs: Naja, rückblickend würde ich vielleicht eher awk
+statt der sed-Konstruktion verwenden. Trotzdem kann man ziemlich
+direkt sehen, was passiert: wc zählt die Zeilen, sed zieht die
+reine Zahl aus der Ausgabe, die wird durch drei geteilt
+und um 1 erhöht; split erzeugt dann Teile
+dieser Länge aus filename und benennt sie filename.chunk.
+plus fortlaufende Nummer. Es wäre natürlich nett,
+wenn wc eine Option hätte, direkt nur die Zahl
+auszugeben, aber auch so kann man damit gut
+hello venkatesh
+hello babu
+babu venky
+hello venkat
+when you venky
+venky is
+babu venky
+how venky
+chrisfs: Naja, rückblickend würde ich vielleicht eher awk
+statt der sed-Konstruktion verwenden. Trotzdem kann man ziemlich
+direkt sehen, was passiert: wc zählt die Zeilen, sed zieht die
+reine Zahl aus der Ausgabe, die wird durch drei geteilt
+und um 1 erhöht; split erzeugt dann Teile
+dieser Länge aus filename und benennt sie filename.chunk.
+plus fortlaufende Nummer. Es wäre natürlich nett,
+wenn wc eine Option hätte, direkt nur die Zahl
+auszugeben, aber auch so kann man damit guthello venkatesh
+hello babu
+babu venky
+hello venkat
+when you venky
+venky is
+babu venky
+how venky
+chrisfs: Naja, rückblickend würde ich vielleicht eher awk
+statt der sed-Konstruktion verwenden. Trotzdem kann man ziemlich
+direkt sehen, was passiert: wc zählt die Zeilen, sed zieht die
+reine Zahl aus der Ausgabe, die wird durch drei geteilt
+und um 1 erhöht; split erzeugt dann Teile
+dieser Länge aus filename und benennt sie filename.chunk.
+plus fortlaufende Nummer. Es wäre natürlich nett,
+wenn wc eine Option hätte, direkt nur die Zahl
+auszugeben, aber auch so kann man damit gut
+hello venkatesh
+hello babu
+babu venky
+hello venkat
+when you venky
+venky is
+babu venky
+how venky
+chrisfs: Naja, rückblickend würde ich vielleicht eher awk
+statt der sed-Konstruktion verwenden. Trotzdem kann man ziemlich
+direkt sehen, was passiert: wc zählt die Zeilen, sed zieht die
+reine Zahl aus der Ausgabe, die wird durch drei geteilt
+und um 1 erhöht; split erzeugt dann Teile
+dieser Länge aus filename und benennt sie filename.chunk.
+plus fortlaufende Nummer. Es wäre natürlich nett,
+wenn wc eine Option hätte, direkt nur die Zahl
+auszugeben, aber auch so kann man damit gut
+hello venkatesh
+hello babu
+babu venky
+hello venkat
+when you venky
+venky is
+babu venky
+how venky
+chrisfs: Naja, rückblickend würde ich vielleicht eher awk
+statt der sed-Konstruktion verwenden. Trotzdem kann man ziemlich
+direkt sehen, was passiert: wc zählt die Zeilen, sed zieht die
+reine Zahl aus der Ausgabe, die wird durch drei geteilt
+und um 1 erhöht; split erzeugt dann Teile
+dieser Länge aus filename und benennt sie filename.chunk.
+plus fortlaufende Nummer. Es wäre natürlich nett,
+wenn wc eine Option hätte, direkt nur die Zahl
+auszugeben, aber auch so kann man damit guthello venkatesh
+hello babu
+babu venky
+hello venkat
+when you venky
+venky is
+babu venky
+how venky
+chrisfs: Naja, rückblickend würde ich vielleicht eher awk
+statt der sed-Konstruktion verwenden. Trotzdem kann man ziemlich
+direkt sehen, was passiert: wc zählt die Zeilen, sed zieht die
+reine Zahl aus der Ausgabe, die wird durch drei geteilt
+und um 1 erhöht; split erzeugt dann Teile
+dieser Länge aus filename und benennt sie filename.chunk.
+plus fortlaufende Nummer. Es wäre natürlich nett,
+wenn wc eine Option hätte, direkt nur die Zahl
+auszugeben, aber auch so kann man damit gut
+hello venkatesh
+hello babu
+babu venky
+hello venkat
+when you venky
+venky is
+babu venky
+how venky
+chrisfs: Naja, rückblickend würde ich vielleicht eher awk
+statt der sed-Konstruktion verwenden. Trotzdem kann man ziemlich
+direkt sehen, was passiert: wc zählt die Zeilen, sed zieht die
+reine Zahl aus der Ausgabe, die wird durch drei geteilt
+und um 1 erhöht; split erzeugt dann Teile
+dieser Länge aus filename und benennt sie filename.chunk.
+plus fortlaufende Nummer. Es wäre natürlich nett,
+wenn wc eine Option hätte, direkt nur die Zahl
+auszugeben, aber auch so kann man damit gut
+hello venkatesh
+hello babu
+babu venky
+hello venkat
+when you venky
+venky is
+babu venky
+how venky
+chrisfs: Naja, rückblickend würde ich vielleicht eher awk
+statt der sed-Konstruktion verwenden. Trotzdem kann man ziemlich
+direkt sehen, was passiert: wc zählt die Zeilen, sed zieht die
+reine Zahl aus der Ausgabe, die wird durch drei geteilt
+und um 1 erhöht; split erzeugt dann Teile
+dieser Länge aus filename und benennt sie filename.chunk.
+plus fortlaufende Nummer. Es wäre natürlich nett,
+wenn wc eine Option hätte, direkt nur die Zahl
+auszugeben, aber auch so kann man damit guthello venkatesh
+hello babu
+babu venky
+hello venkat
+when you venky
+venky is
+babu venky
+how venky
+chrisfs: Naja, rückblickend würde ich vielleicht eher awk
+statt der sed-Konstruktion verwenden. Trotzdem kann man ziemlich
+direkt sehen, was passiert: wc zählt die Zeilen, sed zieht die
+reine Zahl aus der Ausgabe, die wird durch drei geteilt
+und um 1 erhöht; split erzeugt dann Teile
+dieser Länge aus filename und benennt sie filename.chunk.
+plus fortlaufende Nummer. Es wäre natürlich nett,
+wenn wc eine Option hätte, direkt nur die Zahl
+auszugeben, aber auch so kann man damit gut
+hello venkatesh
+hello babu
+babu venky
+hello venkat
+when you venky
+venky is
+babu venky
+how venky
+chrisfs: Naja, rückblickend würde ich vielleicht eher awk
+statt der sed-Konstruktion verwenden. Trotzdem kann man ziemlich
+direkt sehen, was passiert: wc zählt die Zeilen, sed zieht die
+reine Zahl aus der Ausgabe, die wird durch drei geteilt
+und um 1 erhöht; split erzeugt dann Teile
+dieser Länge aus filename und benennt sie filename.chunk.
+plus fortlaufende Nummer. Es wäre natürlich nett,
+wenn wc eine Option hätte, direkt nur die Zahl
+auszugeben, aber auch so kann man damit gut
+hello venkatesh
+hello babu
+babu venky
+hello venkat
+when you venky
+venky is
+babu venky
+how venky
+chrisfs: Naja, rückblickend würde ich vielleicht eher awk
+statt der sed-Konstruktion verwenden. Trotzdem kann man ziemlich
+direkt sehen, was passiert: wc zählt die Zeilen, sed zieht die
+reine Zahl aus der Ausgabe, die wird durch drei geteilt
+und um 1 erhöht; split erzeugt dann Teile
+dieser Länge aus filename und benennt sie filename.chunk.
+plus fortlaufende Nummer. Es wäre natürlich nett,
+wenn wc eine Option hätte, direkt nur die Zahl
+auszugeben, aber auch so kann man damit guthello venkatesh
+hello babu
+babu venky
+hello venkat
+when you venky
+venky is
+babu venky
+how venky
+chrisfs: Naja, rückblickend würde ich vielleicht eher awk
+statt der sed-Konstruktion verwenden. Trotzdem kann man ziemlich
+direkt sehen, was passiert: wc zählt die Zeilen, sed zieht die
+reine Zahl aus der Ausgabe, die wird durch drei geteilt
+und um 1 erhöht; split erzeugt dann Teile
+dieser Länge aus filename und benennt sie filename.chunk.
+plus fortlaufende Nummer. Es wäre natürlich nett,
+wenn wc eine Option hätte, direkt nur die Zahl
+auszugeben, aber auch so kann man damit gut
+hello venkatesh
+hello babu
+babu venky
+hello venkat
+when you venky
+venky is
+babu venky
+how venky
+chrisfs: Naja, rückblickend würde ich vielleicht eher awk
+statt der sed-Konstruktion verwenden. Trotzdem kann man ziemlich
+direkt sehen, was passiert: wc zählt die Zeilen, sed zieht die
+reine Zahl aus der Ausgabe, die wird durch drei geteilt
+und um 1 erhöht; split erzeugt dann Teile
+dieser Länge aus filename und benennt sie filename.chunk.
+plus fortlaufende Nummer. Es wäre natürlich nett,
+wenn wc eine Option hätte, direkt nur die Zahl
+auszugeben, aber auch so kann man damit gut
+hello venkatesh
+hello babu
+babu venky
+hello venkat
+when you venky
+venky is
+babu venky
+how venky
+chrisfs: Naja, rückblickend würde ich vielleicht eher awk
+statt der sed-Konstruktion verwenden. Trotzdem kann man ziemlich
+direkt sehen, was passiert: wc zählt die Zeilen, sed zieht die
+reine Zahl aus der Ausgabe, die wird durch drei geteilt
+und um 1 erhöht; split erzeugt dann Teile
+dieser Länge aus filename und benennt sie filename.chunk.
+plus fortlaufende Nummer. Es wäre natürlich nett,
+wenn wc eine Option hätte, direkt nur die Zahl
+auszugeben, aber auch so kann man damit guthello venkatesh
+hello babu
+babu venky
+hello venkat
+when you venky
+venky is
+babu venky
+how venky
+chrisfs: Naja, rückblickend würde ich vielleicht eher awk
+statt der sed-Konstruktion verwenden. Trotzdem kann man ziemlich
+direkt sehen, was passiert: wc zählt die Zeilen, sed zieht die
+reine Zahl aus der Ausgabe, die wird durch drei geteilt
+und um 1 erhöht; split erzeugt dann Teile
+dieser Länge aus filename und benennt sie filename.chunk.
+plus fortlaufende Nummer. Es wäre natürlich nett,
+wenn wc eine Option hätte, direkt nur die Zahl
+auszugeben, aber auch so kann man damit gut
